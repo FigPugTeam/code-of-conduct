@@ -1,6 +1,4 @@
-# Code of Conduct
-
-All participants of Tiny Factories are expected to abide by our Code of Conduct, both online and during in-person events that are hosted and/or associated with Tiny Factories.
+All participants of Tiny Factories are expected to abide by our Code of Conduct, both online and during in-person events that are hosted and/or associated with FigPug
 
 ## The Pledge
 
@@ -31,7 +29,7 @@ Examples of unacceptable behaviour by participants include:
 
 ## Enforcement
 
-Violations of the Code of Conduct may be reported by messaging organizers on Discord or by sending an email to [hello@tinyfactories.space](mailto:hello@tinyfactories.space). All reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Further details of specific enforcement policies may be posted separately.
+Violations of the Code of Conduct may be reported by messaging organizers on Discord or by sending an email to [hello@figpug.com](mailto:hello@figpug.com). All reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Further details of specific enforcement policies may be posted separately.
 
 We hold the right and responsibility to remove comments or other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any members for other behaviours that they deem inappropriate, threatening, offensive, or harmful.
 
